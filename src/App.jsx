@@ -1,5 +1,5 @@
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import "./App.css";
+import "./style.css";
 import { StudentList } from "./components/StudentList";
 import { StudentCreateForm } from "./components/StudentCreateForm";
 import { StudentDetail } from "./components/StudentDetail";
